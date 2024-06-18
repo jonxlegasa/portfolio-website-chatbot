@@ -1,4 +1,4 @@
-# portfolio-website-chatbottot
+# portfolio-website-chatbot
 
 ## Overview
 This project features a dynamic chatbot designed to function as a personal assistant, managing and presenting personal documents and information similar to well-known assistants like Jarvis and Cortana. By integrating with external APIs such as GitHub and LinkedIn, the chatbot provides a comprehensive overview of my professional background, portfolio, and other relevant information.
@@ -17,8 +17,8 @@ This project features a dynamic chatbot designed to function as a personal assis
 ### Setting Up the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://your-repository-url.com
-   cd your-repository-directory
+   git clone https://github.com/jonxlegasa/portfolio-website-chatbot.git
+   cd portfolio-website-chatbot
    ```
 
 2. **Install dependencies:**
